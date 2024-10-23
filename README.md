@@ -13,9 +13,9 @@ A simple Python-based number guessing game where the user tries to guess a rando
 5. The program displays the correct number and the total number of attempts made by the user.
 
 ## Example
-Guess the number: 50<br>
-Lower number please<br>
-Guess the number: 30<br>
-Higher number Please<br>
+Guess the number: 50<br><br>
+**Lower number please<br>**
+Guess the number: 30<br><br>
+**Higher number Please<br>**
 Guess the number: 40<br>
 You have guessed the number 40 correctly in 3 attempts
